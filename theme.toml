@@ -3,7 +3,7 @@
 
 name = "Simple"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
+licenselink = "https://github.com/bodani/Simple/blob/master/LICENSE.md"
 description = "An elegant open-source and mobile-first theme"
 homepage = "http://example.com/"
 tags = ["blog", "company"]
@@ -12,5 +12,5 @@ min_version = 0.24
 
 [author]
     name = "Eamon"
-    homepage = "https://github.com/EamonZhang"
+    homepage = "https://github.com/bodani/Simple/"
 
