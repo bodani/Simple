@@ -626,10 +626,10 @@ pre {
   padding-left: 1rem;
   padding-right: 1rem; }
 
-@media (min-width: 52rem) {
+@media (min-width: 100rem) {
   .container {
-    max-width: 52rem; } }
-@media (max-width: 51rem) {
+    max-width: 100rem; } }
+@media (max-width: 100rem) {
   .container {
     padding-left: 0.5rem;
     padding-right: 0.5rem; } }
@@ -677,7 +677,7 @@ pre {
   .main-menu a {
     color: #364c6a; }
 
-@media (max-width: 52rem) {
+@media (max-width: 100rem) {
   .site-header {
     padding-top: 1rem;
     padding-bottom: 0.5rem; }
